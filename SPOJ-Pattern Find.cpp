@@ -2,6 +2,9 @@
 See Tushar Roy's Two Tutorial Videos of  KMP Pattern Search explanation
 Use implementation from geeksforgeeks for KMP Pattern Search .
 */
+
+/// Time - 0.06s
+
 #include <bits/stdc++.h>
 
 using namespace std;
