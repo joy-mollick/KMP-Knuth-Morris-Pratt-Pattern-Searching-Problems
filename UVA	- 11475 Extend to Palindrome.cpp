@@ -3,6 +3,7 @@ See Tushar Roy's Two Tutorial Videos of  KMP Pattern Search explanation
 Use implementation from geeksforgeeks for KMP Pattern Search .
 */
 
+/// Time-0.010s
 /// Same as spoj
 /// Think about that if we add reverse string of current string at its end then it will be palindrome ,right ?
 /// Then we have to add minimum characters ,so we have to basically find the longest suffix of original string which is also prefix of reverse string ,think cleverly 
